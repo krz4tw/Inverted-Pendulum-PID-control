@@ -1,7 +1,7 @@
 # Inverted-Pendulum-PID-control
 The goal is to create an PID controller for an inverted pendulum built out of a salvaged Inkjet printer.
 
-It´s using linear and rotational quadrature encoders found in the printer to dertermine the linear position of the cart and
+It´s using linear and rotational quadrature encoders found in the printer to determine the linear position of the cart and
 the angle of the pendulum. Its also using a salavaged photointerrupter as a limit switch.
 The motor is driven by an L298N Motordriver by an external power supply.
 
