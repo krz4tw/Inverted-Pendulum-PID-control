@@ -6,7 +6,7 @@ the angle of the pendulum. Its also using a salavaged photointerrupter as a limi
 The motor is driven by an L298N Motordriver by an external power supply.
 
 A video of the system in action along with further explenations and questions can be found here:
-
+https://www.youtube.com/watch?v=yyIvA0gJgm8
 
 
 
