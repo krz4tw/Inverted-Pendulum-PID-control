@@ -7,7 +7,7 @@ The motor is driven by an L298N Motordriver by an external power supply.
 
 A video of the system in action along with further explanations and questions can be found here:
 https://www.youtube.com/watch?v=yyIvA0gJgm8
-
+https://www.youtube.com/watch?v=_kBZzQOslTc  //Updated Version
 
 
 
